@@ -1,1 +1,1 @@
-[Shorts to Normal](https://github.com/githubkorean/Shorts-to-Normal/settings/pages)
+[Shorts to Normal](https://githubkorean.github.io/Shorts-to-Normal/)
